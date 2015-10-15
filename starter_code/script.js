@@ -35,5 +35,5 @@ function evaluate(evt) {
 
 // This function runs on page load
 $(document).ready(function(){
-
+getAISelection()
 });
