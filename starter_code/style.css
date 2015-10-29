@@ -7,7 +7,8 @@
     margin-bottom: 0;
 }
 .token { 
-    width: 32%; 
+    width: 32%;
+    background:red;
     border: 1px solid blue; 
     margin-left: 1px;
     float:left;
